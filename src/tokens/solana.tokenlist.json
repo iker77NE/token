@@ -12006,8 +12006,14 @@
       "extensions": {
         "website": "https://coinalpha.app/"
       }
-    }
-  ],
+    },
+    {"address": "CmMyqH5dhM8kizrenoTx1aWbq4cM9yBe39c1h6QE6NmD",
+            "name": "GNB Coin",
+            "symbol": "GNB",
+            "logoURI": "https://raw.githubusercontent.com/iker77NE/cryptoGNB/main/logoGNB.png"
+        }
+    ]
+,
   "version": {
     "major": 0,
     "minor": 2,
